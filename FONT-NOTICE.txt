@@ -1,0 +1,3 @@
+This package includes a subset of Noto Sans Arabic Regular from the system Google Noto font distribution, used for Arabic text.
+The subset was generated with fontTools and contains glyphs needed by the bilingual site.
+See FONT-LICENSE.txt for the accompanying Apache License 2.0.
