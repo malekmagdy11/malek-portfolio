@@ -4,6 +4,4 @@ Personal portfolio with an English default, an Arabic language switch and the or
 
 `index.html` contains the complete offline-ready site. The site presents illustrative design studies, not client projects.
 
-Contact: loukaroubaa@gmail.com
-
 Arabic font licensing and subset information are in FONT-LICENSE.txt and FONT-NOTICE.txt.
